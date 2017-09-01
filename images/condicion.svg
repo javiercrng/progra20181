@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="95.00193mm"
+   height="48.666294mm"
+   viewBox="0 0 95.001928 48.666294"
+   version="1.1"
+   id="svg5667"
+   inkscape:version="0.91 r"
+   sodipodi:docname="condicion.svg">
+  <defs
+     id="defs5661" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0163926"
+     inkscape:cx="128.27238"
+     inkscape:cy="131.86964"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="1104"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5664">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-37.493176,-74.203374)">
+    <rect
+       style="fill:#f5a76d;fill-opacity:1;stroke:#750000;stroke-width:1.35857725;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5669"
+       width="51.899136"
+       height="52.136417"
+       x="129.29347"
+       y="32.090794"
+       transform="matrix(0.88334098,0.46873096,-0.89648028,0.44308364,0,0)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:6.61458302px;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="64.648293"
+       y="101.10078"
+       id="text6216"><tspan
+         sodipodi:role="line"
+         id="tspan6214"
+         x="64.648293"
+         y="101.10078"
+         style="stroke-width:0.26458332">¿a &gt; 2?</tspan></text>
+  </g>
+</svg>
