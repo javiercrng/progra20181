@@ -7,3 +7,7 @@
 <par>
 Sitio oficial del curso: <a href="http://progra.usm.cl">http://progra.usm.cl</a>
 </par>
+
+<par>
+Versión web de las clases: <a href="http://cristopherarenas.cl/progra/">Aquí</a>
+</par>
