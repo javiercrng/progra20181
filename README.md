@@ -1,4 +1,4 @@
-# Programación 2017-2
+# Programación 2018-1
 ## Paralelo 200
 ## UTFSM Campus San Joaquin
 
@@ -9,5 +9,5 @@ Sitio oficial del curso: <a href="http://progra.usm.cl">http://progra.usm.cl</a>
 </par>
 
 <par>
-Versión web de las clases: <a href="http://cristopherarenas.cl/progra/">Aquí</a>
+Versión web de las clases (2017): <a href="http://cristopherarenas.cl/progra/">Aquí</a>
 </par>
